@@ -1,0 +1,26 @@
+
+.footer {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1274px;
+    margin: 0 auto;
+  }
+  
+  .company-name {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .footer-right p {
+    margin: 0;
+    color: rgba(100, 112, 131, 1);
+    font-size: 14px;
+  }
+  
